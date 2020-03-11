@@ -9,8 +9,8 @@ import java.util.Map.Entry;
  */
 
 /**
- *
- * @author marianam
+ * @author Daniela Batz 19214
+ * @author Mariana Morales 17235
  */
 public class Carta {
     private String nombre;
