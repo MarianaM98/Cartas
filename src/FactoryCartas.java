@@ -6,8 +6,8 @@
 import java.util.Map;
 import java.util.*;
 /**
- *
- * @author marianam
+ * @author Daniela Batz 19214
+ * @author Mariana Morales 17235
  */
 public class FactoryCartas {
     //Devuelve el tipo de mapa
