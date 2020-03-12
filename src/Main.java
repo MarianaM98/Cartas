@@ -25,7 +25,7 @@ public class Main {
         FactoryCartas fm = new FactoryCartas();
         Scanner s=new Scanner(System.in);
         
-        System.out.println("Ingrese la abreviacion de la opcion que desea elegir: ");
+        System.out.println("Ingrese la opcion que desea elegir: ");
         System.out.println("1. HashMap ");
         System.out.println("2. TreeMap");
         System.out.println("3. LinkedHashMap");
@@ -34,7 +34,7 @@ public class Main {
             seleccionado=1;
         }
         while ((seleccionado == 0)){
-            System.out.println("ERROR Ingreso no valido. Por favor ingrese la abreviacion de la opcion que desea elegir: ");
+            System.out.println("ERROR Ingreso no valido. Por favor ingrese la opcion que desea elegir: ");
             System.out.println("1. HashMap ");
             System.out.println("2. TreeMap");
             System.out.println("3. LinkedHashMap");
